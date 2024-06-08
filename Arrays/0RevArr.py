@@ -1,4 +1,4 @@
-//0.Reversing an array
+/*0.Reversing an array*/
 
 from os import *
 from sys import *
