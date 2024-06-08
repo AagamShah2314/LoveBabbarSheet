@@ -1,4 +1,4 @@
-//3.Sort 0 1 2
+/* 3.Sort 0 1 2 */
 
 from os import *
 from sys import *
