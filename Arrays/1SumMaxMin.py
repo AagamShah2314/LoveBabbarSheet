@@ -1,4 +1,4 @@
-//1.Sum Of Max And Min
+/* 1.Sum Of Max And Min */
 
 from os import *
 from sys import *
