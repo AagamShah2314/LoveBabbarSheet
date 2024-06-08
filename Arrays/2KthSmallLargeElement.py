@@ -1,4 +1,4 @@
-//2.Kth Smallest and Largest Element of Array
+/* 2.Kth Smallest and Largest Element of Array */
 def kthSmallLarge(arr, n, k):
     # Write your code here
     arr.sort()
